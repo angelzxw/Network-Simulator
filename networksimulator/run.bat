@@ -1,0 +1,1 @@
+networksimulator.exe ./Data/test_case_0.top ./Data/test_case_0.flow ./Data/Output/ > report.txt
